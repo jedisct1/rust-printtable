@@ -1,0 +1,10 @@
+[package]
+name = "printtable"
+version = "0.1.0"
+authors = ["Frank Denis <github@pureftpd.org>"]
+license = "MIT"
+repository = "https://github.com/jedisct1/rust-printtable"
+homepage = "https://github.com/jedisct1/rust-printtable"
+description = "Nicely format a table"
+
+[dependencies]
